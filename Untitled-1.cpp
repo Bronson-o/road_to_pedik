@@ -2,6 +2,7 @@
 using namespace std;
 
 //запитати про прототипи!
+// test 3
 
 void computeofspaces(int count){
     for (int i = 0; i < count; ++i) {
