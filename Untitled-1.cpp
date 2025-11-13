@@ -2,7 +2,7 @@
 using namespace std;
 
 //запитати про прототипи!
-// tTETSTASTASFsd
+// test2
 
 void computeofspaces(int count){
     for (int i = 0; i < count; ++i) {
